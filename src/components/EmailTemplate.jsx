@@ -55,7 +55,7 @@ const questionContainerStyle = {
   minHeight: "fit-content",
   padding: "2rem",
   paddingTop: "0",
-  margin: "0.5rem",
+  margin: "0.5rem auto",
 
   borderRadius: "1rem",
   border: "1px solid",
