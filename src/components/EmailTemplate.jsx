@@ -51,7 +51,7 @@ export default function EmailTemplate() {
 }
 
 const questionContainerStyle = {
-  width: "40rem",
+  maxWidth: "40rem",
   minHeight: "fit-content",
   padding: "2rem",
   paddingTop: "0",
