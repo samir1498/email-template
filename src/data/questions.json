@@ -1,0 +1,464 @@
+[
+  {
+    "id_qst": 19,
+    "txt_qst": "L’achat d’un complément alimentaire fait suite à:",
+    "multichoice": "1",
+    "type_qst": "qst",
+    "qst_for": "p",
+    "ordre": 6,
+    "answer": [
+      {
+        "id_ans": 42,
+        "txt_ans": "Le conseil d’un pharmacien",
+        "sous_qst": 0,
+        "id_qst": 19,
+        "user_answer": 0
+      },
+      {
+        "id_ans": 43,
+        "txt_ans": "Le conseil d’un proche",
+        "sous_qst": 0,
+        "id_qst": 19,
+        "user_answer": 0
+      },
+      {
+        "id_ans": 44,
+        "txt_ans": "Une prescription médicale",
+        "sous_qst": 0,
+        "id_qst": 19,
+        "user_answer": 0
+      }
+    ]
+  },
+  {
+    "id_qst": 20,
+    "txt_qst": "Quelle serait la limite supérieure d’un médicament NON remboursé que vous seriez susceptible de payer ?",
+    "multichoice": "1",
+    "type_qst": "qst",
+    "qst_for": "p",
+    "ordre": 7,
+    "answer": [
+      {
+        "id_ans": 45,
+        "txt_ans": "1 000 DA",
+        "sous_qst": 0,
+        "id_qst": 20,
+        "user_answer": 0
+      },
+      {
+        "id_ans": 46,
+        "txt_ans": "1 500 DA",
+        "sous_qst": 0,
+        "id_qst": 20,
+        "user_answer": 0
+      },
+      {
+        "id_ans": 47,
+        "txt_ans": "2 000 DA",
+        "sous_qst": 0,
+        "id_qst": 20,
+        "user_answer": 0
+      }
+    ]
+  },
+  {
+    "id_qst": 24,
+    "txt_qst": "Estimez-vous que les données de santé des citoyens et patients (par exemple, âge, poids, nombre de pas, etc.) peuvent permettre de faire avancer la recherche médicale et d’améliorer la santé de tous ?",
+    "multichoice": "0",
+    "type_qst": "qst",
+    "qst_for": "p",
+    "ordre": 8,
+    "answer": [
+      {
+        "id_ans": 54,
+        "txt_ans": "Oui",
+        "sous_qst": 0,
+        "id_qst": 24,
+        "user_answer": 0
+      },
+      {
+        "id_ans": 55,
+        "txt_ans": "Non",
+        "sous_qst": 0,
+        "id_qst": 24,
+        "user_answer": 0
+      }
+    ]
+  },
+  {
+    "id_qst": 25,
+    "txt_qst": "Votre médecin vous a-t-il déjà recommandé à vos patients l’usage d’objets de service numérique permettant ’échange et le partage d’informations de santé avec lui ou sur lui ?",
+    "multichoice": "0",
+    "type_qst": "qst",
+    "qst_for": "p",
+    "ordre": 11,
+    "answer": [
+      {
+        "id_ans": 56,
+        "txt_ans": "Oui",
+        "sous_qst": 0,
+        "id_qst": 25,
+        "user_answer": 0
+      },
+      {
+        "id_ans": 57,
+        "txt_ans": "Non",
+        "sous_qst": 0,
+        "id_qst": 25,
+        "user_answer": 0
+      }
+    ]
+  },
+  {
+    "id_qst": 26,
+    "txt_qst": "Et si dans le cadre du suivi de votre maladie chronique / affection de longue durée, votre médecin vous proposait de tels objets ou services numériques permettant l’échange et le partage d’informations sur votre santé, seriez-vous prêt à l’accepter ?",
+    "multichoice": "0",
+    "type_qst": "qst",
+    "qst_for": "p",
+    "ordre": 12,
+    "answer": [
+      {
+        "id_ans": 58,
+        "txt_ans": "Oui",
+        "sous_qst": 0,
+        "id_qst": 26,
+        "user_answer": 0
+      },
+      {
+        "id_ans": 59,
+        "txt_ans": "Non",
+        "sous_qst": 0,
+        "id_qst": 26,
+        "user_answer": 0
+      }
+    ]
+  },
+  {
+    "id_qst": 27,
+    "txt_qst": "Aimeriez-vous que votre médecin ou les professionnels de santé qui vous suivent puissent Accéder à votre dossier médical directement sur leur téléphone portable/smartphone ?",
+    "multichoice": "0",
+    "type_qst": "qst",
+    "qst_for": "p",
+    "ordre": 13,
+    "answer": [
+      {
+        "id_ans": 60,
+        "txt_ans": "Oui",
+        "sous_qst": 0,
+        "id_qst": 27,
+        "user_answer": 0
+      },
+      {
+        "id_ans": 61,
+        "txt_ans": "Non",
+        "sous_qst": 0,
+        "id_qst": 27,
+        "user_answer": 0
+      }
+    ]
+  },
+  {
+    "id_qst": 28,
+    "txt_qst": "Seriez-vous favorable ou opposé à ce que vos données de santé soient utilisées par des professionnels de santé qui pourraient prendre contact avec vous pour discuter de votre traitement après les avoir étudiées ?",
+    "multichoice": "0",
+    "type_qst": "qst",
+    "qst_for": "p",
+    "ordre": 14,
+    "answer": [
+      {
+        "id_ans": 62,
+        "txt_ans": "Favorable",
+        "sous_qst": 0,
+        "id_qst": 28,
+        "user_answer": 0
+      },
+      {
+        "id_ans": 63,
+        "txt_ans": "Opposé",
+        "sous_qst": 0,
+        "id_qst": 28,
+        "user_answer": 0
+      }
+    ]
+  },
+  {
+    "id_qst_cmplx": 4,
+    "txt_qst_cmplx": "Pensez-vous que le développement des outils et services numériques dans le domaine de la santé permettra...",
+    "qst_for": "p",
+    "ordre": 9,
+    "sub_qsts": [
+      {
+        "question": {
+          "id_qst": 9,
+          "txt_qst": "De améliorer le parcours du patient à l’hôpital ?",
+          "multichoice": "0",
+          "type_qst": "sub_qst_cmplx",
+          "qst_for": "p",
+          "answer": [
+            {
+              "id_ans": 24,
+              "txt_ans": "Oui",
+              "sous_qst": 0,
+              "id_qst": 9,
+              "user_answer": 0
+            },
+            {
+              "id_ans": 25,
+              "txt_ans": "Non",
+              "sous_qst": 0,
+              "id_qst": 9,
+              "user_answer": 0
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "id_qst": 10,
+          "txt_qst": "De améliorer la qualité des soins dans notre pays ?",
+          "multichoice": "0",
+          "type_qst": "sub_qst_cmplx",
+          "qst_for": "p",
+          "answer": [
+            {
+              "id_ans": 26,
+              "txt_ans": "Oui",
+              "sous_qst": 0,
+              "id_qst": 10,
+              "user_answer": 0
+            },
+            {
+              "id_ans": 27,
+              "txt_ans": "Non",
+              "sous_qst": 0,
+              "id_qst": 10,
+              "user_answer": 0
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id_qst_cmplx": 5,
+    "txt_qst_cmplx": "Pensez-vous qu’il sera utile ou pas vraiment utile pour les patients de…",
+    "qst_for": "p",
+    "ordre": 10,
+    "sub_qsts": [
+      {
+        "question": {
+          "id_qst": 21,
+          "txt_qst": "Fournir des applications permettant un accompagnement des patients dans la prise de leur traitement ou dans le suivi médical",
+          "multichoice": "0",
+          "type_qst": "sous_qst_cmplx",
+          "qst_for": "p",
+          "answer": [
+            {
+              "id_ans": 48,
+              "txt_ans": "Oui",
+              "sous_qst": 0,
+              "id_qst": 21,
+              "user_answer": 0
+            },
+            {
+              "id_ans": 49,
+              "txt_ans": "Non",
+              "sous_qst": 0,
+              "id_qst": 21,
+              "user_answer": 0
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "id_qst": 22,
+          "txt_qst": "Fournir des informations et un suivi de l’état de santé avec une application ?",
+          "multichoice": "0",
+          "type_qst": "sous_qst_cmplx",
+          "qst_for": "p",
+          "answer": [
+            {
+              "id_ans": 50,
+              "txt_ans": "Oui",
+              "sous_qst": 0,
+              "id_qst": 22,
+              "user_answer": 0
+            },
+            {
+              "id_ans": 51,
+              "txt_ans": "Non",
+              "sous_qst": 0,
+              "id_qst": 22,
+              "user_answer": 0
+            }
+          ]
+        }
+      },
+      {
+        "question": {
+          "id_qst": 23,
+          "txt_qst": "Généraliser les préadmissions en ligne via internet ou des applications ?",
+          "multichoice": "0",
+          "type_qst": "sous_qst_cmplx",
+          "qst_for": "p",
+          "answer": [
+            {
+              "id_ans": 52,
+              "txt_ans": "Oui",
+              "sous_qst": 0,
+              "id_qst": 23,
+              "user_answer": 0
+            },
+            {
+              "id_ans": 53,
+              "txt_ans": "Non",
+              "sous_qst": 0,
+              "id_qst": 23,
+              "user_answer": 0
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id_qst": 12,
+    "txt_qst": "Etes-vous diabétique ?",
+    "multichoice": "0",
+    "type_qst": "sub_qst",
+    "qst_for": "p",
+    "ordre": 1,
+    "answer": [
+      {
+        "id_ans": 30,
+        "txt_ans": "Oui",
+        "sous_qst": 1,
+        "id_qst": 12,
+        "user_answer": 0,
+        "sub_question_answer": [
+          {
+            "id_ans": 30,
+            "id_qst": 13,
+            "question": {
+              "id_qst": 13,
+              "txt_qst": "Combien de fois faites-vous usage de votre lecteur de glycémie: ?",
+              "multichoice": "0",
+              "type_qst": "sub_qst_ans",
+              "qst_for": "p",
+              "ordre": 2,
+              "answer": [
+                {
+                  "id_ans": 32,
+                  "txt_ans": "1 fois par jour au moins",
+                  "sous_qst": 0,
+                  "id_qst": 13,
+                  "user_answer": 0
+                },
+                {
+                  "id_ans": 33,
+                  "txt_ans": "1 jour sur 2",
+                  "sous_qst": 0,
+                  "id_qst": 13,
+                  "user_answer": 0
+                },
+                {
+                  "id_ans": 34,
+                  "txt_ans": "De temps à autre",
+                  "sous_qst": 0,
+                  "id_qst": 13,
+                  "user_answer": 0
+                }
+              ]
+            }
+          },
+          {
+            "id_ans": 30,
+            "id_qst": 14,
+            "question": {
+              "id_qst": 14,
+              "txt_qst": "Combien de fois changez-vous de marque de lecteur de glycémie par année : ",
+              "multichoice": "0",
+              "type_qst": "sub_qst_ans",
+              "qst_for": "p",
+              "ordre": 3,
+              "answer": [
+                {
+                  "id_ans": 35,
+                  "txt_ans": "1 fois",
+                  "sous_qst": 0,
+                  "id_qst": 14,
+                  "user_answer": 0
+                },
+                {
+                  "id_ans": 36,
+                  "txt_ans": "2 fois",
+                  "sous_qst": 0,
+                  "id_qst": 14,
+                  "user_answer": 0
+                },
+                {
+                  "id_ans": 37,
+                  "txt_ans": "Plus de 2 fois",
+                  "sous_qst": 0,
+                  "id_qst": 14,
+                  "user_answer": 0
+                },
+                {
+                  "id_ans": 38,
+                  "txt_ans": "Jamais",
+                  "sous_qst": 0,
+                  "id_qst": 14,
+                  "user_answer": 0
+                }
+              ]
+            }
+          },
+          {
+            "id_ans": 30,
+            "id_qst": 15,
+            "question": {
+              "id_qst": 15,
+              "txt_qst": "Qui oriente votre choix concernant le lecteur de glycémie : ",
+              "multichoice": "1",
+              "type_qst": "sub_qst_ans",
+              "qst_for": "p",
+              "ordre": 4,
+              "answer": [
+                {
+                  "id_ans": 39,
+                  "txt_ans": "Le pharmacien",
+                  "sous_qst": 0,
+                  "id_qst": 15,
+                  "user_answer": 0
+                },
+                {
+                  "id_ans": 40,
+                  "txt_ans": "Le médecin",
+                  "sous_qst": 0,
+                  "id_qst": 15,
+                  "user_answer": 0
+                },
+                {
+                  "id_ans": 41,
+                  "txt_ans": "Un malade diabétique dans mon entourage",
+                  "sous_qst": 0,
+                  "id_qst": 15,
+                  "user_answer": 0
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id_ans": 31,
+        "txt_ans": "Non",
+        "sous_qst": 0,
+        "id_qst": 12,
+        "user_answer": 0,
+        "sub_question_answer": []
+      }
+    ]
+  }
+]
