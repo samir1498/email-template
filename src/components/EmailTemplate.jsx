@@ -32,7 +32,7 @@ export default function EmailTemplate() {
         }
 
         return (
-          <div style={questionContainerStyle}>
+          <div style={questionContainerStyle} key={question.id_qst}>
             <h2 style={{ textAlign: "center" }}>
               {Questions?.length
                 ? `${i + 1} of ${Questions?.length || ""}`
